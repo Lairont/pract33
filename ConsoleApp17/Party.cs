@@ -8,9 +8,9 @@ namespace ConsoleApp17
 {
     class Party : Marchandise
     {
-        private int count;
-        private DateTime productionDate;
-        private int shelfLife;
+        int count;
+        DateTime productionDate;
+        int shelfLife;
 
         public Party(string name, double price, int count, DateTime productionDate, int shelfLife) : base(name, price)
         {
