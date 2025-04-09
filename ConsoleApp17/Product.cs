@@ -8,8 +8,8 @@ namespace ConsoleApp17
 {
     class Product : Marchandise
     {
-        private DateTime productionDate;
-        private int shelfLife;
+        DateTime productionDate;
+        int shelfLife;
 
         public Product(string name, double price, DateTime productionDate, int shelfLife) : base(name, price)
         {
