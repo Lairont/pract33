@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp17.Program">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp17.Marchandise">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAAAAAAAAQAAAAEAAAAAACAAEAAAAA=</HashCode>
+      <FileName>Marchandise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp17.Kit">
+    <Position X="7" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACCAAEAAAAA=</HashCode>
+      <FileName>Kit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp17.Party">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAABIAQAAQAEAAAAAAAAACAAEAAAAA=</HashCode>
+      <FileName>Party.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp17.Product">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAIAQAAAAEAAAAAAAAACAAEAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
