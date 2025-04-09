@@ -8,7 +8,7 @@ namespace ConsoleApp17
 {
     class Kit : Marchandise
     {
-        private List<string> listproducts;
+        List<string> listproducts;
 
         public Kit(string name, double price, List<string> listproducts) : base(name, price)
         {
